@@ -1,0 +1,25 @@
+# Archivos de Eclipse
+/.metadata/
+/bin/
+/target/
+/.classpath
+/.project
+/.settings/
+
+# Archivos generados por el compilador
+*.class
+
+# Archivos de dependencias
+*.jar
+*.war
+
+# Archivos de configuración de IDE
+*.log
+*.tmp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de salida
+out/
